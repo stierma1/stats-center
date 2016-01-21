@@ -1,3 +1,4 @@
+exports["stats-center"] =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};

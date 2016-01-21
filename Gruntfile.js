@@ -45,6 +45,8 @@ module.exports = function(grunt) {
 	      output: {
 		      path: "build/",
 		      filename: "main.js",
+          libraryTarget: "commonjs",
+          library:"stats-center"
 	      },
 
 	      stats: {
